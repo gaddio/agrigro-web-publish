@@ -1,0 +1,18 @@
+{
+    "title": "Grower Experiences",
+    "headerImageAsset": "assets/images/green-wheat-background.png",
+    "sections": [
+        {
+            "type": "markdown-remote",
+            "assetPath": "https://gaddio-dev-agrigro-west2.s3.amazonaws.com/grower-experiences/manning.md"
+        },
+        {
+            "type": "markdown-asset",
+            "assetPath": "assets/articles/about.md"
+        },
+        {
+            "type": "markdown",
+            "markdown": "## header 2"
+        }
+    ]
+}
